@@ -1,2 +1,1 @@
-# sql-lineage
-generate column-level lineage from sql queries
+SQL Lineage Project
